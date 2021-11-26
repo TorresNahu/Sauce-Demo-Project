@@ -1,3 +1,3 @@
 # Sauce-Demo-Project
 
-https://www.saucedemo.com/pipenv --venv
+https://www.saucedemo.com/
